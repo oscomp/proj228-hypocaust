@@ -65,7 +65,7 @@ hypocaust，一个 RISC-V Type-1 hypervisor。
 
 ### 第二题
 
-支持 RISC-V AIA(Advanced Interrupt Architectural)，包括以下功能：
+支持 RISC-V AIA(Advanced Interrupt Architecture)，包括以下功能：
 
 - 根据 RISC-V AIA 标准，为 hypervisor 软件添加 AIA 支持，并可以将其在 QEMU 上验证通过
 
